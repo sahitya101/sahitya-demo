@@ -1,3 +1,3 @@
 # sahitya-demo
 sahitya tyagi
-Author - sahitya tyagi
+Author - Sahitya Tyagi
